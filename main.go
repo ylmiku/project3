@@ -4,7 +4,7 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
 	"net/http"
-	_ "project3/iHome/routers"
+	_ "project3/routers"
 	"strings"
 )
 
